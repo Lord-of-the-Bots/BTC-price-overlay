@@ -32,7 +32,7 @@ BTC Price Overlay is an application that displays real-time cryptocurrency quote
 ## Usage
 
 1. Run the script:
-    python main.py
+    python BTC_overlay.pyw
 
 2. After launching the application, an icon will appear in the system tray. Right-click on it to configure and select the cryptocurrency to track.
 
