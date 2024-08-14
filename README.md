@@ -1,6 +1,7 @@
 ## BTC Price Overlay
 
 BTC Price Overlay is an application that displays real-time cryptocurrency quotes based on Binance. The program runs in the background and displays the price of the selected cryptocurrency above all windows, including games, movies, and other applications running in borderless window mode. Management is done through an icon in the system tray.
+The compiled version for Windows x64 that does not require any installation to run (executable .exe) can be found in the Releases.
 
 ## Features
 
