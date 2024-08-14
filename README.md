@@ -23,7 +23,7 @@ BTC Price Overlay is an application that displays real-time cryptocurrency quote
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/your_username/btc-price-overlay.git
+    git clone https://github.com/Lord-of-the-Bots/BTC-price-overlay.git
     cd btc-price-overlay
 
 2. Install the necessary dependencies:
@@ -35,6 +35,8 @@ BTC Price Overlay is an application that displays real-time cryptocurrency quote
     python BTC_overlay.pyw
 
 2. After launching the application, an icon will appear in the system tray. Right-click on it to configure and select the cryptocurrency to track.
+
+You can also download and just run compiled Windows x64 release from releases page.
 
 ## Contributing
 
