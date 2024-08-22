@@ -53,7 +53,7 @@ For more information about our projects, visit our website: https://nswtl.info
 If you value our projects, you can thank the developer with a cryptocurrency donation:
 
 BTC (Bitcoin):
-1KyH3RGAuUcvk9tsmKpfziikCXQ5i84Suk
+1NbtPNkofnKZRjLpULRjhKuAtbh12DovC9
 
 USDT, TRX (TRC20):
 TUgM6hPokF1vPUW8CRp77CgvF3YroabwFP
