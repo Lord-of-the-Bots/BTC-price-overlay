@@ -46,9 +46,7 @@ If you want to contribute to the project, please fork the repository, make your 
 
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
-## Contact
-
-For more information about our projects, visit our website: https://nswtl.info
+## Support development
 
 If you value our projects, you can thank the developer with a cryptocurrency donation:
 
